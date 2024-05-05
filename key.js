@@ -1,3 +1,3 @@
 // enter key
 
-key = "d33999b5";
+key = "enter your own key go to (omdb api.com)";
